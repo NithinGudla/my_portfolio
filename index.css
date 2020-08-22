@@ -27,7 +27,7 @@
 .welcome{
     
     vertical-align: middle;
-    margin-left: 7vw;
+    margin-left: 6vw;
     margin-top: 1vw;
     color: ghostwhite;
     
@@ -54,3 +54,56 @@
     padding: 1vw;
 
 }
+
+.data{
+
+    display: flex;
+    margin-bottom: 5vw;
+}
+
+
+
+.datacontainer{
+
+    margin-top: 1vw;
+    width: 60%;
+}
+
+p{
+
+    font-size: 20px;
+}
+
+.workexp img{
+
+    display: block;
+    margin-top: 10%;
+    width: 80%;
+    max-width: 300px;
+}
+
+.education img{
+
+    display: block;
+    margin-top: 10%;
+    width: 80%;
+    min-width: 150px;
+    max-width: 550px;
+}
+
+.skills .images{
+    text-align: center;
+    align-content: center;
+}
+
+.skill .images img{
+
+    margin-left: 50px;
+
+    width: 10vw;
+    height: 10vw;
+
+    max-width: 150px;
+    max-width: 150px;
+}
+
