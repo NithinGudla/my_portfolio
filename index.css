@@ -1,0 +1,44 @@
+.intro{
+
+    display: flex;
+    height: 20vw;
+    
+    background-color: grey;
+}
+
+.photo_container{
+
+    display: flex;
+
+}
+
+#photo{
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    height: inherit;
+    width: 15vw;
+}
+
+.welcome{
+    
+    vertical-align: middle;
+    margin-left: 12vw;
+    margin-top: 2vw;
+    
+    
+}
+.welcome h1{
+
+    text-align: center;
+    vertical-align: middle;
+    font-size: 4vw;
+    color: ghostwhite;
+}
+
+.welcome p{
+    font-size: 2vw;
+    text-align: center;
+    color: white;
+}
